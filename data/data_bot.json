@@ -1,6 +1,12 @@
 {
   "saldoUsers": {},
-  "aksesGroups": [],
-  "stats": { "sukses": 0, "gagal": 0, "total": 0 },
+  "aksesGroups": [
+    -1002482063077
+  ],
+  "stats": {
+    "sukses": 0,
+    "gagal": 0,
+    "total": 0
+  },
   "groupSettings": {}
 }
